@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Taotao Wu (吴滔滔)
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdocotral Research
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Virgnia
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
