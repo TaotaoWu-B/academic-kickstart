@@ -31,7 +31,7 @@ education:
   - course: PhD in Mechanical Engineering
     institution: University of Virginia
     year: 2019
-  - course: MEng in Mechanical Engineering
+  - course: MSc in Mechanical Engineering
     institution: Beijing Institute of Technology (China)
     year: 2014
   - course: BSc in Mechanical Engineering
