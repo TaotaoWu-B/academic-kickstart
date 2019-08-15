@@ -1,10 +1,10 @@
 +++
-title = "Accounting for Extra-Dyadic Sources of International Outcomes"
-date = 2018-01-01T00:00:00
+title = "Explicit Modeling of White Matter Axonal Fiber Tracts in a Finite Element Brain Model"
+date = 2019-03-14T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Muhammet A. Bas", "Omer F. Orsun", "Rob J. Schub"]`.
-authors = ["Muhammet A. Bas", "Omer F. Orsun", "Rob J. Schub"]
+authors = ["Taotao Wu","Ahmed Alshareef","J. Sebastian Giudice","Matthew B. Panzer"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["Muhammet A. Bas", "Omer F. Orsun", "Rob J. Schub"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Interactions*, II."
+publication = "In *Annals of Biomedical Engineering*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Leaders consider the broader international landscape when making foreign policy choices. This landscape could encompass a single external actor, the local region, or even the whole international system. Quantitative analyses of international outcomes, however, frequently do not account for this broader context. This study suggests a corrective, illustrating the value of incorporating extra-dyadic variables into analyses with dyadic and monadic outcomes. The challenge is to parsimoniously capture theoretically-salient elements of the multilateral environment. We contend that a measure that links distributions of power within any $k$-set of relevant states to uncertainty over conflict outcomes is a promising option for two reasons. First, the measure builds from and accords with canonical theories of international politics. Second, it offers scholars a simple and flexible means to define and account for the set of states that constitute the relevant multilateral landscape. Illustrative applications linking power distributions and outcome uncertainty to alliance formation and pursuit of nuclear weapons demonstrate that extra-dyadic factors consistently influence foreign policy outcomes. This study thus shows that situating such outcomes within their broader context is both feasible and substantively important. Moreover, it contributes to recent efforts to address shortcomings of monadic and dyadic studies."
+abstract = "Many human brain finite element (FE) models lack mesoscopic (~ 1 mm) white matter structures, which may limit their capability in predicting TBI and assessing tissue-based injury metrics such as axonal strain. This study investigated an embedded method to explicitly incorporate white matter axonal fibers into an existing 50th percentile male brain model. The white matter was decomposed into myelinated axon tracts and an isotropic ground substance that had similar material properties to gray matter. The axon tract bundles were derived from a population-based tractography template explicitly modeled using 1-D cable elements. The axonal fibers and ground substance material were implemented using hyper-viscoelastic constitutive models, which were calibrated using white and gray matter brain tissue material testing data available in the literature. Finally, the new axon-based model was extensively validated for brain-skull relative deformation under various loading conditions (n = 17) and showed good biofidelity compared to other brain models. Through these analyses, we demonstrated the applicability of this method for incorporating axonal fiber tracts into an existing FE brain model. The axon-based model will be a useful tool for understanding the mechanisms of TBI, evaluating tissue-based injury metrics, and developing injury mitigation systems."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -49,10 +49,10 @@ slides = "PSS Static.pdf"
 tags = []
 
 # Links (optional).
-url_pdf = "https://doi.org/10.1080/03050629.2017.1414810"
+url_pdf = "https://doi.org/10.1007/s10439-019-02239-8"
 url_preprint = ""
 url_code = ""
-url_dataset = "https://doi.org/10.7910/DVN/G8CQM3"
+url_dataset = "https://doi.org/10.1007/s10439-019-02239-8"
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -64,7 +64,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1080/03050629.2017.1414810"
+doi = ""
 
 # Does this page contain LaTeX math? (true/false)
 math = true
