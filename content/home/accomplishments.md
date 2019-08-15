@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "UVA MAE"
+  organization = "University of Virginia Mechanical & Aerospace Engineering"
   organization_url = "https://engineering.virginia.edu/departments/mechanical-and-aerospace-engineering"
   title = "Outstanding Research Presentation of the Year"
   url = ""
@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "UVA MAE"
+  organization = "University of Virginia Mechanical & Aerospace Engineering"
   organization_url = "https://engineering.virginia.edu/departments/mechanical-and-aerospace-engineering"
   title = "Outstanding Graduate Student"
   url = ""
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  organization = "UVA MAE"
+  organization = "University of Virginia Mechanical & Aerospace Engineering"
   organization_url = "https://engineering.virginia.edu/departments/mechanical-and-aerospace-engineering"
   title = "Distinguished Fellowship"
   url = ""
@@ -47,5 +47,25 @@ date_format = "Jan 2006"
   date_start = "2019-01-01"
   date_end = ""
   description = ""
-
+  
+  [[item]]
+  organization = "United States Association for Computational Mechanics "
+  organization_url = ""
+  title = "Travel Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-08-01"
+  date_end = ""
+  description = ""
+  
+ [[item]]
+  organization = "NACTranS (China)"
+  organization_url = ""
+  title = "Second prize in the 5th National Competition of Transport Science and Technology for Students"
+  url = ""
+  certificate_url = ""
+  date_start = "2010-05-01"
+  date_end = ""
+  description = ""
+  
 +++
