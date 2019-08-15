@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-# date_format = "Jan 2006"
+date_format = "Jan 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -24,7 +24,7 @@ subtitle = ""
   title = "Outstanding Research Presentation of the Year"
   url = ""
   certificate_url = ""
-  date_start = "May 2019"
+  date_start = "2019-05-01"
   date_end = ""
   description = ""
 
@@ -34,7 +34,7 @@ subtitle = ""
   title = "Outstanding Graduate Student"
   url = ""
   certificate_url = ""
-  date_start = "May 2019"
+  date_start = "2019-04-01"
   date_end = ""
   description = ""
   
@@ -44,7 +44,7 @@ subtitle = ""
   title = "Distinguished Fellowship"
   url = ""
   certificate_url = ""
-  date_start = "Jan 2019"
+  date_start = "2019-01-01"
   date_end = ""
   description = ""
 
